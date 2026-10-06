@@ -1,16 +1,44 @@
-## Hi there 👋
+# Frank Lopez 👋
 
-<!--
-**flopez51/flopez51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+I'm an undergraduate student at the
+University of Maryland Global Campus, using this
+space to document what I'm learning and explore
+ideas beyond the classroom.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+**University:** University of Maryland Global Campus  
+**Program:** Undergraduate — Non-Degree Seeking  
+**Current Course:** AASP 201 — Intro African American Studies
+
+## 📖 What I'm Exploring
+
+- Culture and society
+- History and social perspectives
+- Academic research
+- Digital learning
+- New ideas and perspectives
+
+## 🧠 Current Focus
+
+My current studies are helping me explore African
+American studies and develop a broader understanding
+of culture, history, and society.
+
+## 💻 Beyond Coursework
+
+I'm also interested in using digital tools to organize
+my learning, experiment with new ideas, and develop
+useful technical skills.
+
+## 🎯 Looking Ahead
+
+I'm focused on continuing to learn, improving my
+skills, and turning what I learn into meaningful
+projects and experiences.
+
+---
+
+> Learn deeply. Stay curious. Keep moving forward. 🚀
